@@ -38,10 +38,48 @@
 ![favorites-page](https://github.com/user-attachments/assets/003e30f9-4419-4d98-96bf-4deb04a0874d)
 
 
-## React Health Page ![React-health-single-page (5)](https://github.com/user-attachments/assets/245346d7-f052-40c5-b36a-9401f55c98de)
+## React Health Page
+![React-health-single-page (5)](https://github.com/user-attachments/assets/245346d7-f052-40c5-b36a-9401f55c98de)
 ![React-health-single-page (4)](https://github.com/user-attachments/assets/0b5e7c86-7abc-4d04-a5f4-4a71edbfccd5)
-
 ![React-health-single-page (3)](https://github.com/user-attachments/assets/ca5d2426-9ab6-46f5-b158-23f443e71e57)
 ![React-health-single-page (2)](https://github.com/user-attachments/assets/7045b7b6-6596-4a31-82b7-adc95f0c5dd4)
 ![React-health-single-page (1)](https://github.com/user-attachments/assets/1a20b53c-1b8d-470e-81f3-d6d4327616a5)
+
+# Javascript 
+
+## Compound Interest
+![compound-interest](https://github.com/user-attachments/assets/e2ea8eec-0f7b-4b9c-b5fe-420ab3888c5d)
+
+## Quiz
+
+![4](https://github.com/user-attachments/assets/457037e7-a744-46c5-a5ba-522c5c76d600)
+![3](https://github.com/user-attachments/assets/1a959669-705b-49e4-90a5-e34161d1d3fa)
+![2](https://github.com/user-attachments/assets/fb4f41ef-f1d4-4266-acb5-93f60567a740)
+![1](https://github.com/user-attachments/assets/268c9963-2ccb-4466-998e-da46f2d1a06d)
+![5](https://github.com/user-attachments/assets/768c419c-cf01-462d-8c1b-28e4bb545dc6)
+
+## Memory Game 
+![3](https://github.com/user-attachments/assets/f56a19fa-7bd9-4d6f-8447-a6d30134fe77)
+![2](https://github.com/user-attachments/assets/0d7364e4-ba1e-4e2a-9271-2d0ddea2d408)
+![Javascript Memory Game Home Page](https://github.com/user-attachments/assets/0009aeb1-3fe4-42e4-b6c9-03e29d3e6143)
+
+## Nature
+![mertcancaglayan github io_natureWebsite_ (1)](https://github.com/user-attachments/assets/81da462f-094b-4a02-a30f-cff5ed75b5c6)
+![mertcancaglayan github io_natureWebsite_](https://github.com/user-attachments/assets/78b672e0-f29d-4654-92d3-d13eecf1484e)
+![mertcancaglayan github io_natureWebsite_ (2)](https://github.com/user-attachments/assets/25f83d70-6f9d-4b3c-bc2c-2493f4603848)
+
+## Tic-Tac-Toe
+![start](https://github.com/user-attachments/assets/cd14da20-9791-41e6-95b7-6150a1f17ca3)
+![loading](https://github.com/user-attachments/assets/598d45db-198f-43ef-adc7-f69c8c7f0b5a)
+![game-light](https://github.com/user-attachments/assets/4420bac1-d763-4308-b5fc-f5ef9e0e62c7)
+![game-dark](https://github.com/user-attachments/assets/483bec6b-782e-4cba-935b-1533d489886c)
+![end-light](https://github.com/user-attachments/assets/6857733d-99e7-4c4b-bbf1-41639f960f5d)
+![end](https://github.com/user-attachments/assets/b2f94e56-8376-47f6-89af-f5eefbd35b21)
+
+## 3D slider
+
+![3D-Slider](https://github.com/user-attachments/assets/4e60ba9f-346a-435f-8c76-b72e34ec6809)
+
+
+
 
