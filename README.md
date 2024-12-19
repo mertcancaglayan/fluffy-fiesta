@@ -83,3 +83,72 @@
 
 
 
+# Bakery
+
+## breads
+
+![Baguette](https://github.com/user-attachments/assets/78da0bd8-d5c6-427e-98f2-0aebf6934017)
+![Challah](https://github.com/user-attachments/assets/e3449634-130f-4009-99db-1fabe86acac7)
+![Croissant](https://github.com/user-attachments/assets/a383ec64-5113-4884-a799-5e5989885ee4)
+![Focaccia](https://github.com/user-attachments/assets/b4030d47-a745-4f2f-a24a-dfc4904f154a)
+![Sourdough](https://github.com/user-attachments/assets/1d74c28b-2063-483e-8101-0205051e36c3)
+
+## Desserts
+
+## Cakes
+![chocolate cake](https://github.com/user-attachments/assets/418820cf-9e07-4635-95be-31138a6e687b)
+![Easy-Vanilla-Cake-Recipe-5](https://github.com/user-attachments/assets/20b9b72a-5861-4398-bc67-91dd6129667d)
+![Red Velvet Cake](https://github.com/user-attachments/assets/6c891a9a-a396-4206-aa47-c3e7fc2c8e3c)
+![carrot cake](https://github.com/user-attachments/assets/fc3557b9-7e72-4b3b-9366-3b88ba42059d)
+
+## Muffins
+![blueberry muffins](https://github.com/user-attachments/assets/f2ef58e4-0683-46c5-b967-bcb7ec9f4e91)
+![banana muffins](https://github.com/user-attachments/assets/75a31fa9-d76f-40f8-a99a-f2203bbc9566)
+![chocolate chip muffins](https://github.com/user-attachments/assets/560e9565-3880-41f8-9e1c-aae73b08764a)
+![Pumpkin Muffin](https://github.com/user-attachments/assets/83812f45-429e-4279-a273-0db848945a63)
+![Apple Cinnamon Muffins](https://github.com/user-attachments/assets/2cacc047-f911-4083-b1a6-f2ff880b2975)
+
+## Tarts
+![Lemon Tart](https://github.com/user-attachments/assets/d3614e1f-3c56-4b1d-944b-62e4f2c1d67d)
+![Mini Fruit Tarts](https://github.com/user-attachments/assets/2f1eaa45-577a-4a92-8b2c-a1a62cfb9c44)
+![Mini chocolate](https://github.com/user-attachments/assets/2504086e-575b-466e-98e5-b825b60f3eba)
+![Pecan Pie](https://github.com/user-attachments/assets/791292d9-d31f-4622-a3ad-15c138a4e943)
+![Raspberry Tart](https://github.com/user-attachments/assets/fb8a5ede-000b-4783-adda-312c0fa36b34)
+
+## Classic
+![donuts](https://github.com/user-attachments/assets/3ff19955-6da6-4173-96e3-f7d501858a15)
+![macarons](https://github.com/user-attachments/assets/e7526aad-6b9d-40a8-a640-b6249963aba8)
+![baklava](https://github.com/user-attachments/assets/d91582e9-77e4-4f6c-8bc8-94243446576a)
+![Chocolate Mousse](https://github.com/user-attachments/assets/cbf09362-5a23-46dd-850a-e4f252357482)
+![apple pie](https://github.com/user-attachments/assets/96a252e1-454f-4e65-86bc-9b81bee0f3e8)
+![Profiterole](https://github.com/user-attachments/assets/7341899b-424f-438a-b5ab-f9295d677bc2)
+![tiramisu](https://github.com/user-attachments/assets/05745307-307d-411f-9605-22cd56b6cbb0)
+![Brownies](https://github.com/user-attachments/assets/92ba9992-d4c4-46a8-a628-4241150dcd7c)
+
+## Drinks
+
+## Hot Beverages
+![tea peppermint](https://github.com/user-attachments/assets/a190e718-32c5-4240-84da-ceba7f779e17)
+![coffe](https://github.com/user-attachments/assets/c21288b5-e9b9-43fc-a544-2e2a851beef4)
+![Latte](https://github.com/user-attachments/assets/454829d6-3785-43af-902a-2b164b6dbf4a)
+![Green Tea](https://github.com/user-attachments/assets/bca150fe-876c-4b5c-8360-c03805448493)
+![turkish tea](https://github.com/user-attachments/assets/7390a44e-9b3e-4795-9003-a6dae4b91362)
+![turkish coffe](https://github.com/user-attachments/assets/f3ed3eb5-7090-4eca-ba79-c5bf1d253226)
+![hot chocolate](https://github.com/user-attachments/assets/33b79293-3e4a-4d99-8c87-e5e80b0715f4)
+![Capuccino](https://github.com/user-attachments/assets/3af07797-444d-4e7f-a8a7-b01f978133f9)
+![Mocha](https://github.com/user-attachments/assets/ae109f5e-ac25-4c7e-aa76-07c15cc38cd2)
+![Chai Latte](https://github.com/user-attachments/assets/14ffe3c6-423d-4a12-92c8-ac287f4b7ed3)
+
+## Cold Beverages
+![orange juice](https://github.com/user-attachments/assets/1c0329a6-1fe2-447f-bc45-3893591bb230)
+![Smoothie](https://github.com/user-attachments/assets/6873180a-a176-40e0-a8ac-99c0e853f4e0)
+![Milkshake](https://github.com/user-attachments/assets/90b91eab-24f6-43af-96a4-0a9d8d9b8361)
+![iced coffee](https://github.com/user-attachments/assets/8ed1ada9-f6bd-4825-a0ea-3ed70d11518d)
+![ice tea](https://github.com/user-attachments/assets/82211829-e0ae-4474-8aa5-679c58a24e34)
+![Iced-Mocha](https://github.com/user-attachments/assets/81e16a5e-a715-459d-a2a1-4f035d10217b)
+![Americano](https://github.com/user-attachments/assets/74eca47f-7da8-4205-89e7-7b1d7541242b)
+![lemonade](https://github.com/user-attachments/assets/06efea5d-9784-4900-aee7-93b2c4cf6e3b)
+![peach ice tea](https://github.com/user-attachments/assets/7921a22a-526d-415a-8253-961416b01fb2)
+![raspberry iced tea](https://github.com/user-attachments/assets/af05cf94-1e80-4022-b8a8-700b615def5f)
+
+
